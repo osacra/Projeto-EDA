@@ -1,1 +1,0 @@
-void inserirClienteMenu(Lista *li);
